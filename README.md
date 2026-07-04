@@ -25,7 +25,8 @@ Focuses on historical trends, key performance tracking, and granular profitabili
 * Regional Performance Matrix: A tabular view using advanced DAX to categorize states into dynamic performance tiers such as Exceptional, Excellent, Average, and Poor.
 
 Dashboard Preview - Page 1:
-![Sales Performance Dashboard](dashboard_page1.jpg)
+![Sales Performance Dashboard](<img width="1432" height="793" alt="The Dashbord Page1" src="https://github.com/user-attachments/assets/32ef0273-6d60-4f67-850f-75be5ed437c7" />
+)
 
 ### Page 2: Predictive Forecasting and Economic Sensitivity (What-If Analysis)
 Enables decision-makers to run real-time corporate forecasting scenarios.
@@ -34,7 +35,8 @@ Enables decision-makers to run real-time corporate forecasting scenarios.
 * Segmental and Logistics Analysis: Columns and donut charts tracking profit margins across individual Buying Groups and delivery efficiencies based on Package Types including Carton, Case, and Packet.
 
 Dashboard Preview - Page 2:
-![Predictive and Scenario Analysis Dashboard](dashboard_page2.jpg)
+![Predictive and Scenario Analysis Dashboard](<img width="1424" height="795" alt="The Dashbord Page2" src="https://github.com/user-attachments/assets/2e958538-25eb-4990-a892-a41c04ffc6b9" />
+)
 
 ## Data Engineering and ETL Pipeline (Power Query)
 Before modeling, raw tables underwent strict data-cleaning treatments via Power Query Editor:
