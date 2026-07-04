@@ -9,7 +9,7 @@ This project addresses these challenges by establishing a unified data model tha
 
 ## Tech Stack and Key Features
 * BI Platform: Power BI Desktop
-* ETL and Data Preprocessing: Power Query (M Language)
+* ETL and Data Preprocessing: Power Query
 * Data Modeling: Relational Star Schema
 * Analytical Calculations: Advanced DAX (Data Analysis Expressions)
 * Analytics Scope: Descriptive, Predictive, and Prescriptive Analytics
